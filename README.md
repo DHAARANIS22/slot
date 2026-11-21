@@ -35,7 +35,7 @@ dhar.html
     <head>
     <body>
         <center>
-            <img src="logo.png" width="580" height="auto">
+            <img src="logo.png" width="600" height="auto">
             <h1>SLOT TIME TABLE-DHAARANI S(26019313)</h1>
             <table border="2" cellspacing="5" cellpading="6">
               <tr bgcolor="cyan">
@@ -132,12 +132,13 @@ dhar.html
     </body>
 </html>
 
+
 ```
 
 
 ## OUTPUT
 webpage
-![alt text](image.png)
+![alt text](image-1.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
